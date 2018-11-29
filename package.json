@@ -1,0 +1,9 @@
+{
+  "name": "actions-pipeline",
+  "version": "0.1.0",
+  "description": "allows to execute actions,added from any part of object, one-by-one ",
+  "main": "index.js",
+  "repository": "https://github.com/bozheville/actions-pipeline.git",
+  "author": "Denys Grybov <denys@grybov.com>",
+  "license": "MIT"
+}
